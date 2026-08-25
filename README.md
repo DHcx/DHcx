@@ -3,6 +3,7 @@
 - 🌱 Estudante de Desenvolvimento de Sistemas Multiplataformas
 - 💻 Fascinado por novas tecnologias e IA/IoT
 - 🎮 Entusiasta por Games
+- 🎨 Artista 3D
 
 <div>
 <picture>
